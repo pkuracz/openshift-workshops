@@ -1,6 +1,6 @@
 # DC Metro Map
 
-## What is this?
+## What is this thing?
 A simple example of a node.js + mapbox web application configured to run on Red Hat's OpenShift.
 
 ![Screenshot](./.screens/2016-03-30_2135.png?raw=true)
